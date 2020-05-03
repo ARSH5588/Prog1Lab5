@@ -1,0 +1,6 @@
+Arshjit Sansoe = 99
+Joe Leo = 70
+George David = 80
+Mike Brown = 64
+Clay Mark = 46
+Agamveer White = 39
